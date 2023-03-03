@@ -2,7 +2,7 @@
 
 * O fóco deste projeto é práticar JavaScript ⭐
 
-Você poderá organizar seu dia-a-dia com esta lista de tarefa completa podendo marcar sua tarefa como feita, poderá edita-la e também removê-lá, além de poder filtrar suas tarefas como: todos, feitas, á fazer.
+Você poderá organizar seu dia-a-dia com esta lista de tarefa completa podendo marcar sua tarefa como feita, poderá edita-la e também removê-lá, além de poder filtrar suas tarefas como: todos, feitas e á fazer.
 
 * <h3> Tecnologia utilizada: </h3>
 
