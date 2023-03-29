@@ -1,4 +1,4 @@
-## Lista de Tarefas Avançado. 
+## Lista de Tarefas Avançado
 
 * O fóco deste projeto é práticar JavaScript. ⭐
 
